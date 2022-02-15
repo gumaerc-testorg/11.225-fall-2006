@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fb7ce59b-d5e2-0df4-d236-4e00356493a3
 ---
@@ -92,7 +94,7 @@ As indicated above, attendance is critical to a class forum which will largely b
 Written Work
 ------------
 
-All written assignments must be submitted in hard copy on the day it is due (this includes PowerPoint® presentations). Written work must be typed, spell-checked, and neatly formatted. Please include your name, the course number, assignment number, and date at the top of the page or on a cover sheet. While an occasional typo or editing error may slip through, the presence of several mistakes indicates a lack of attention and will lower your grade. Specific formatting conventions are negotiable, based on standards in your field and appropriateness for your intended audience. **All work must be professional looking and designed for easy reading**.
+All written assignments must be submitted in hard copy on the day it is due (this includes PowerPoint{{< sup "®" >}} presentations). Written work must be typed, spell-checked, and neatly formatted. Please include your name, the course number, assignment number, and date at the top of the page or on a cover sheet. While an occasional typo or editing error may slip through, the presence of several mistakes indicates a lack of attention and will lower your grade. Specific formatting conventions are negotiable, based on standards in your field and appropriateness for your intended audience. **All work must be professional looking and designed for easy reading**.
 
 Documenting Sources
 -------------------
