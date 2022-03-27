@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5001542e-7365-0f46-4ab6-1dcbebf05bf2
 resourcetype: Document
 title: guide_info_memos.pdf
 uid: ed1e6599-0aae-6f1c-7db2-c77a79d02f1c

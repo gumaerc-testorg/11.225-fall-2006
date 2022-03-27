@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5001542e-7365-0f46-4ab6-1dcbebf05bf2
 resourcetype: Document
 title: analyze_argument.pdf
 uid: 1a11b01a-d75a-950c-25f7-0ba8b3c4be5e

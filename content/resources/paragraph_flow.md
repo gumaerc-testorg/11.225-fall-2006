@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5001542e-7365-0f46-4ab6-1dcbebf05bf2
 resourcetype: Document
 title: paragraph_flow.pdf
 uid: 3d8ccde7-d1ca-a64f-9b98-1ab7f55b5835

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5001542e-7365-0f46-4ab6-1dcbebf05bf2
 resourcetype: Document
 title: writing_eff_esay.pdf
 uid: a7f55e5e-d2e5-e235-86d3-4587c09e455a
