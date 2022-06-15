@@ -2,7 +2,7 @@
 content_type: resource
 description: This resources contains defination of argument, bases of an argument
   and debate obstacles.
-file: /media/courses/11-225-argumentation-and-communication-fall-2006/e280fcda606c0badd67bf52b240a55a1_lect_6.pdf
+file: /courses/11-225-argumentation-and-communication-fall-2006/e280fcda606c0badd67bf52b240a55a1_lect_6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lect_6.pdf
 uid: e280fcda-606c-0bad-d67b-f52b240a55a1
 ---
+This resources contains defination of argument, bases of an argument and debate obstacles.
+
