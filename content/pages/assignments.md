@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: A complete set of problem statements along with their solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fa29c068-2d4b-cc8f-f649-a27448d184d0
 ---
@@ -30,7 +34,7 @@ Submit one page of writing from another class that you would like analyzed. This
 
 ### Assignment 2
 
-Find an Op-Ed piece that interests you and analyze it using the sheet we worked with in class: How to analyze an argument? ([PDF]({{< baseurl >}}/resources/ps2attach))
+Find an Op-Ed piece that interests you and analyze it using the sheet we worked with in class: How to analyze an argument? ({{% resource_link 47f3c1db-95db-10c6-2325-0bc2e8fd9f2f "PDF" %}})
 
 
 {{< tdclose >}}
