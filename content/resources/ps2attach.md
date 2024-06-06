@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains informations to analyze an argument.
 file: /courses/11-225-argumentation-and-communication-fall-2006/47f3c1db95db10c623250bc2e8fd9f2f_ps2attach.pdf
+file_size: 10976
 file_type: application/pdf
 learning_resource_types:
 - Assignments
