@@ -4,6 +4,7 @@ description: This resource contains guidelines for effective informational memos
   as include a summary paragraph, focus on the content of the memo, craft the conclusion
   and do not under estimate the power of tone in writing.
 file: /courses/11-225-argumentation-and-communication-fall-2006/ed1e65990aae6f1c7db2c77a79d02f1c_guide_info_memos.pdf
+file_size: 92484
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
