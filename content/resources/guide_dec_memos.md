@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains analyze your audience and define your purpose,
   generate ideas, group information under headlines and sequence your ideas.
-file: /courses/11-225-argumentation-and-communication-fall-2006/9fd176faea61535e638c44088ae03b66_guide_dec_memos.pdf
+file: /ol-ocw-studio-app/courses/11-225-argumentation-and-communication-fall-2006/9fd176faea61535e638c44088ae03b66_guide_dec_memos.pdf
 file_size: 113389
 file_type: application/pdf
 learning_resource_types:
