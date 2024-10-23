@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains guidelines for writing effective essays.
-file: /courses/11-225-argumentation-and-communication-fall-2006/a7f55e5ed2e5e23586d34587c09e455a_writing_eff_esay.pdf
+file: /ol-ocw-studio-app/courses/11-225-argumentation-and-communication-fall-2006/a7f55e5ed2e5e23586d34587c09e455a_writing_eff_esay.pdf
 file_size: 38793
 file_type: application/pdf
 learning_resource_types:

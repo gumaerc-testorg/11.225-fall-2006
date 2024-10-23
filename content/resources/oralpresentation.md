@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains some good practices for effective presentation.
-file: /courses/11-225-argumentation-and-communication-fall-2006/5f622468937e59000ff4730f6a12cb25_oralpresentation.pdf
+file: /ol-ocw-studio-app/courses/11-225-argumentation-and-communication-fall-2006/5f622468937e59000ff4730f6a12cb25_oralpresentation.pdf
 file_size: 652368
 file_type: application/pdf
 learning_resource_types:
