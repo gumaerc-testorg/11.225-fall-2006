@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains following steps to analyze an argument logic,
   credibility and  passion.
-file: /ol-ocw-studio-app/courses/11-225-argumentation-and-communication-fall-2006/1a11b01ad75a950c25f70ba8b3c4be5e_analyze_argument.pdf
+file: /courses/11-225-argumentation-and-communication-fall-2006/1a11b01ad75a950c25f70ba8b3c4be5e_analyze_argument.pdf
 file_size: 11073
 file_type: application/pdf
 learning_resource_types:

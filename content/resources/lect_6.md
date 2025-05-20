@@ -2,7 +2,7 @@
 content_type: resource
 description: This resources contains defination of argument, bases of an argument
   and debate obstacles.
-file: /ol-ocw-studio-app/courses/11-225-argumentation-and-communication-fall-2006/e280fcda606c0badd67bf52b240a55a1_lect_6.pdf
+file: /courses/11-225-argumentation-and-communication-fall-2006/e280fcda606c0badd67bf52b240a55a1_lect_6.pdf
 file_size: 138665
 file_type: application/pdf
 learning_resource_types:
