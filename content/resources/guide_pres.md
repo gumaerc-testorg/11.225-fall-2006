@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains guidelines for effective briefings.
-file: /courses/11-225-argumentation-and-communication-fall-2006/d1707ae4dc9223e798bceafd3264cb14_guide_pres.pdf
+file: /ol-ocw-studio-app/courses/11-225-argumentation-and-communication-fall-2006/d1707ae4dc9223e798bceafd3264cb14_guide_pres.pdf
 file_size: 113108
 file_type: application/pdf
 learning_resource_types:
