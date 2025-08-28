@@ -5,7 +5,7 @@ description: 'This resource contains dissecting assignments, dissecting memo
   assignments and dissecting briefing
 
   assignments.'
-file: /courses/11-225-argumentation-and-communication-fall-2006/e2749f8b8aadea3fc4df72704de9e1e9_lect_3.pdf
+file: /ol-ocw-studio-app/courses/11-225-argumentation-and-communication-fall-2006/e2749f8b8aadea3fc4df72704de9e1e9_lect_3.pdf
 file_size: 283380
 file_type: application/pdf
 learning_resource_types:
