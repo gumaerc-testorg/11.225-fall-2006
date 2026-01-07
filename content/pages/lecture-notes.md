@@ -33,4 +33,4 @@ Guidelines for Writing Effective Essays ({{% resource_link a7f55e5e-d2e5-e235-86
 
 Guidelines for Effective Briefings ({{% resource_link d1707ae4-dc92-23e7-98bc-eafd3264cb14 "PDF" %}})
 
-Guidelines for Essay Exams: {{% resource_link "1f049fe9-f250-434b-b102-56e3dc4aeb5e" "Writing Essay Exams" %}}
+Guidelines for Essay Exams: [Writing Essay Exams](http://owl.english.purdue.edu/handouts/general/gl_essay.html)
